@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;JSON-java-master&apos;" deleteContents="true" description="Delete resource &apos;JSON-java-master&apos;" element1="/JSON-java-master" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1626308200471"/>
+</session>
